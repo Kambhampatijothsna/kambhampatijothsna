@@ -19,7 +19,7 @@ I am a dedicated and enthusiastic final-year **IT** student . With a strong tech
 ### **Frameworks & Technologies**
 - react
 ### **Databases**
-- MySql,mongodb
+-  MySql,mongodb
 
 ### **Operating Systems**
 - Windows, Linux, Kali Linux
